@@ -1,21 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="%2bU1#nz5jk^n}:Zj*|u">freya</variable><variable id="q}6S;lCslf3|Wsz[2CfI">mySprite</variable><variable id="_^qNqV1.-S)?DMXcgE$0">freya1</variable><variable type="KIND_SpriteKind" id="hXkMwXQ8RjlUqnwxVXZw">Player</variable><variable type="KIND_SpriteKind" id="SAOk^`9Fh=D[rG$vC7Ru">Projectile</variable><variable type="KIND_SpriteKind" id="=-,g4#G$QAh{ptDluXgB">Food</variable><variable type="KIND_SpriteKind" id="`K_{1+Nj%;D%,I,?IBe7">Enemy</variable></variables><block type="variables_set" id="-dAq]%3QQOl_fN-t5PLo" disabled="true" x="50" y="210"><field name="VAR" id="%2bU1#nz5jk^n}:Zj*|u">freya</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="SB.[CZVNm@N#S4POaj`Z" disabled="true"><value name="img"><shadow type="screen_image_picker" id="C7N9YH*fg%vzmAjLoWB9"><field name="img">img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"C7N9YH*fg%vzmAjLoWB9"}}</data></shadow><block type="screen_image_picker" id="t2GvZgM8Wh~Hh%PsR*Pe" disabled="true"><field name="img">assets.image`freya`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></block></value><value name="kind"><shadow type="spritekind" id="*pmCWSfW]H43]{E,|=B%" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block><block type="screen_image_picker" id="{ZiGDUGZcoH]0:-0hvPB" disabled="true" x="210" y="310"><field name="img">img`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="%2bU1#nz5jk^n}:Zj*|u">freya</variable><variable id="q}6S;lCslf3|Wsz[2CfI">mySprite</variable><variable id="_^qNqV1.-S)?DMXcgE$0">freya1</variable><variable type="KIND_SpriteKind" id="hXkMwXQ8RjlUqnwxVXZw">Player</variable><variable type="KIND_SpriteKind" id="SAOk^`9Fh=D[rG$vC7Ru">Projectile</variable><variable type="KIND_SpriteKind" id="=-,g4#G$QAh{ptDluXgB">Food</variable><variable type="KIND_SpriteKind" id="`K_{1+Nj%;D%,I,?IBe7">Enemy</variable></variables><block type="screen_image_picker" id="t2GvZgM8Wh~Hh%PsR*Pe" disabled="true" x="130" y="150"><field name="img">assets.image`freya`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></block><block type="screen_image_picker" id="{ZiGDUGZcoH]0:-0hvPB" disabled="true" x="130" y="210"><field name="img">img`
 ............................................................
 ............................................................
 ............................................................
