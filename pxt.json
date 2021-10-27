@@ -2,7 +2,8 @@
     "name": "Freja 2",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Background": "github:kontuzja/catastrophyfreja#master"
     },
     "files": [
         "main.blocks",
